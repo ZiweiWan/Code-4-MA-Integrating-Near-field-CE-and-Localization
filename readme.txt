@@ -12,4 +12,4 @@ and there may be some imcompatibility problems among different MATLAB versions.
 
 The results were verified on an Intel processor.
 
-For more information, please visit our website gaozhen16.github.io
+If you have any questions, you can contact: ziweiwan@bit.edu.cn
