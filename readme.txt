@@ -1,6 +1,8 @@
-This simulation code package is mainly used to reproduce a part of the results of the following paper：
+This simulation code package is mainly used to reproduce a part of the results of the following paper [1]：
 
-Movable Antenna for Integrating Near-field Channel Estimation and Localization
+[1] C. Sun, Z. Wan, L. Zhu, Z. Xiao, Z. Gao, and R. Zhang, "Movable antenna for integrating near-field channel estimation and localization," IEEE Transactions on Vehicular Technology, 2026.
+
+Available at: https://arxiv.org/abs/2601.08357
 
 steps:
 1. run generate_channels.m 
@@ -13,3 +15,12 @@ and there may be some imcompatibility problems among different MATLAB versions.
 The results were verified on an Intel processor.
 
 If you have any questions, you can contact: ziweiwan@bit.edu.cn
+
+If this code package is helpful for your research, we would be grateful if you could please cite our paper:
+
+@article{sun2026movable,
+  title={Movable Antenna for Integrating Near-field Channel Estimation and Localization},
+  author={Sun, Chongjia and Wan, Ziwei and Zhu, Lipeng and Xiao, Zhenyu and Gao, Zhen and Zhang, Rui},
+  journal={IEEE Trans. Veh. Technol.},
+  year={2026}
+}
