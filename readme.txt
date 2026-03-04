@@ -1,8 +1,8 @@
 This simulation code package is mainly used to reproduce a part of the results of the following paper [1]：
 
-[1] C. Sun, Z. Wan, L. Zhu, Z. Xiao, Z. Gao, and R. Zhang, "Movable antenna for integrating near-field channel estimation and localization," in IEEE Transactions on Vehicular Technology, 2026.
+[1] C. Sun, Z. Wan, L. Zhu, Z. Xiao, Z. Gao, and R. Zhang, "Movable antenna for integrating near-field channel estimation and localization," in IEEE Transactions on Vehicular Technology, 2026, doi: 10.1109/TVT.2026.3669616.
 
-Available at: https://arxiv.org/abs/2601.08357
+Also available at: https://arxiv.org/abs/2601.08357
 
 steps:
 1. run generate_channels.m 
@@ -22,7 +22,9 @@ If this code package is helpful for your research, we would be grateful if you c
   title={Movable Antenna for Integrating Near-field Channel Estimation and Localization},
   author={Sun, Chongjia and Wan, Ziwei and Zhu, Lipeng and Xiao, Zhenyu and Gao, Zhen and Zhang, Rui},
   journal={IEEE Trans. Veh. Technol.},
-  year={2026}
+  year={2026},
+  doi={10.1109/TVT.2026.3669616}
 }
+
 
 
